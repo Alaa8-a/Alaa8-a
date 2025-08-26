@@ -1,6 +1,6 @@
 <div align="center">
 
-# 🎓 Pre-Master Milestone Unlocked! 🚀  
+# 🎓 Pre-Master Milestone Unlocked
 
 ![Certificate Badge](https://img.shields.io/badge/Certificate-Pre--Master%20in%20CS-blue?style=for-the-badge&logo=graduation-cap&logoColor=white)
 
@@ -8,7 +8,7 @@
 
 📜 Here’s my certificate:  
 
-![Pre-Master Certificate](./certificate.png)
+![Pre-Master Certificate](./master_certificate.png)
 
 ---
 
