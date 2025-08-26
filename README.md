@@ -8,7 +8,7 @@
 
 📜 Here’s my certificate:  
 
-![Pre-Master Certificate](./master_certificate.png)
+![Pre-Master Certificate](./master_certificate.jpg)
 
 ---
 
